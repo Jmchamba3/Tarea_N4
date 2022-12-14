@@ -1,15 +1,14 @@
 # Tarea_N4
 ## 1. Objetivos:
-
-◆ Describir las características de una fuente de corriente
-◆ Realizar conversiones de fuente
-◆ Aplicar el teorema de superposición al análisis de circuitos
-◆ Aplicar el teorema de Thevenin para simplificar un circuito para su análisis
-◆ Identificar las relaciones serie-paralelo
-◆ Analizar circuitos en serie-paralelo
-◆ Analizar divisores de voltaje con carga
-◆ Determinar el efecto de carga de un voltímetro en un circuito
-◆ Analizar redes en escalera
+- Describir las características de una fuente de corriente
+* Realizar conversiones de fuente
+* Aplicar el teorema de superposición al análisis de circuitos
+* Aplicar el teorema de Thevenin para simplificar un circuito para su análisis
+* Identificar las relaciones serie-paralelo
+* Analizar circuitos en serie-paralelo
+* Analizar divisores de voltaje con carga
+- Determinar el efecto de carga de un voltímetro en un circuito
+- Analizar redes en escalera
 ## 2. Marcos teorico
 ![imagen](https://user-images.githubusercontent.com/116812651/207739405-6c1fe26c-62c8-4054-a4ac-b4ecdf0a5a7a.png)
 ![imagen](https://user-images.githubusercontent.com/116812651/207739437-870ddb4f-6cda-45e5-a759-d942c38417d4.png)
