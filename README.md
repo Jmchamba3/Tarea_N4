@@ -287,7 +287,7 @@ La tarjeta se observa en el siguiente gráfico:
 
 ![image](https://user-images.githubusercontent.com/93666408/148000734-39ee59d3-0161-43f6-8718-1c30a43adaad.png)
 ## 4. Video
-
+https://www.youtube.com/watch?v=P9mGWCQrQrs
 ## 5. Conclusiones
    * En conclusion, comprender el funcionamiento de un circuito en serie-paralelo es escencial para de esta manera implementar los conceptos básicos para asi desarrollar los ejercicios de una manera práctica y ordenada.
    * Comprobar que las leyes de Kirchhoff no son las únicas con las que se pueden analizar los circuitos con el analisis se mallas y nodos que se han desarrollado en este parcial.  
